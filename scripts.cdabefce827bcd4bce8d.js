@@ -1,0 +1,1 @@
+var __EnvApiUrl="http://iconsultant.f3322.net:8888/r2stk-dev";
