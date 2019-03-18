@@ -1,1 +1,1 @@
-var __EnvApiUrl="https://iconsultant.f3322.net:8888/r2stk-dev";
+var __EnvApiUrl="https://iconsultant.f3322.net:18443/r2stk-dev";
